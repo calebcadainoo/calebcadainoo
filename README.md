@@ -32,6 +32,8 @@ Link here: https://soundcloud.com/calebcadainoo/kristofo-koda-ft-elsie-degadzor-
 [![Linkedin: calebcadainoo](https://img.shields.io/badge/-calebcadainoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/calebcadainoo/)](https://www.linkedin.com/in/calebcadainoo/)
 [![GitHub calebcadainoo](https://img.shields.io/github/followers/calebcadainoo?label=follow&style=social)](https://github.com/calebcadainoo)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calebcadainoo&" alt="calebcadainoo" /></p>
+
 ## 🧰 Languages:
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" style="vertical-align:top; margin:15px">
@@ -77,6 +79,8 @@ Link here: https://soundcloud.com/calebcadainoo/kristofo-koda-ft-elsie-degadzor-
 <img src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" alt="Figma" height="50" style="vertical-align:top; margin:15px">
 <img src="https://www.mobindustry.net/wp-content/uploads/mockplus-small-thumbnail.png" alt="Mockupplus" height="50" style="vertical-align:top; margin:15px">
 </p>
+
+
 
 <!--
 **calebcadainoo/calebcadainoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
