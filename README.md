@@ -14,7 +14,7 @@ As a guitarist, I played over KODA's Kristofo you can listen on SoundCloud.
 Link here: https://soundcloud.com/calebcadainoo/kristofo-koda-ft-elsie-degadzor-ambient-guitar-remix-1crosby
 
 - 🔭 I’m currently working on the web app for Finer Credit
-- 🌱 I love to building many things; personal projects, etc.
+- 🌱 I love to build many things; personal projects, etc.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love the sea and the beach
 - ⚡ Fun fact: The sea breeze and sand is therapeutic go to the beach if you haven't yet
