@@ -3,6 +3,10 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=calebcadainoo.calebcadainoo)
 
 Worked in Fintech across United Kingdom, Ghana, Norway, Kenya, Nigeria
+Sectors in Fintech Worked: 
+- Mortgage Services
+- Cross-border & Cross-continental money transfers and remittances
+- Ticketing 
 
 I'm also a YouTuber and a guitarist. I share my knowledge on my YouTube channel. Please Subscribe if you haven't yet,
 
