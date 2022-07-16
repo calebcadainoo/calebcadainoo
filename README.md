@@ -2,10 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=calebcadainoo.calebcadainoo)
 
-I am a software engineer working at Finer Credit
-
-At my previous workplace WayaMoney Limited, a fintech company doing transctions across 
-Africa(Ghana, Nigeria, Kenya, UK, etc.) . I enjoy programming, writing, mountain biking, speaking and traveling.
+Worked in Fintech across United Kingdom, Ghana, Norway, Kenya, Nigeria
 
 I'm also a YouTuber and a guitarist. I share my knowledge on my YouTube channel. Please Subscribe if you haven't yet,
 
